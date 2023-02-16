@@ -6,11 +6,11 @@ import { User } from '../user';
 export class UserService {
   private userList: User[] = [{
     id: 1,
-    name: 'Ankit Sahu',
-    dob: new Date('08/31/1992'),
-    email: 'ankit@gmail.com',
+    name: 'Sidhanth',
+    dob: new Date('16/12/2001'),
+    email: 'sidhanthkundu16@gmail.com',
     gender: 'Male',
-    mobile: '8978786933',
+    mobile: '9812438502',
     isActive: true,
     range: [0, 10],
     userType: 'Admin'
